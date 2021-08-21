@@ -7,6 +7,6 @@ print("fin")
 
 x=0
 while x<1000:
-    print("me gustan las rubias")
+    print("TTAATAA")
     x+=1
 
